@@ -19,7 +19,7 @@ body{
     border-radius: 10px;
 }
 
-.login .text placeholder{
-    margin-right: 20px;
-    
+form{
+    margin: 10px;
+    margin-left: 60px;
 }

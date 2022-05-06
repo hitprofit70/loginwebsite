@@ -1,5 +1,8 @@
-body{
+*{
     margin: 0px;
     padding: 0px;
-    background: url();
+    background-image: url(./img/istockphoto-1140265911-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
 }

@@ -9,17 +9,21 @@ body{
 
 .login h1{
     color: white;
-    padding-top: 30px;
+    padding-top: 10px;
     text-align: center;
 }
 
 .login{
-    background: rgba(0, 0, 0, 0.258);
-    width: 480px;
-    height: 370px;
-    margin-left: 600px;
-    margin-top: 250px;
+    background: rgba(11, 11, 11, 0.258);
+    width: 490px;
+    height: 430px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 40px 25px;
     border-radius: 10px;
+    transform: translate(-50%,-50%);
 }
 
 form{
@@ -28,12 +32,12 @@ form{
 }
 
 input{
-width: 80%;
+width: 90%;
 height: 30px;
 border-radius: 15px;
 }
 
 a{
-    margin-right: 80px;
+    margin-right: 60px;
     color: white;
 }

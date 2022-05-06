@@ -1,5 +1,25 @@
-*{
+body{
     margin: 0px;
     padding: 0px;
+    background-color: gray;
+}
 
+.login h1{
+    color: black;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.login{
+    background: white;
+    width: 480px;
+    height: 370px;
+    margin-left: 600px;
+    margin-top: 250px;
+    border-radius: 10px;
+}
+
+.login .text placeholder{
+    margin-right: 20px;
+    
 }

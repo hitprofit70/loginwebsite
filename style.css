@@ -7,37 +7,6 @@ body{
     background-size: 100% 100%;
 }
 
-.login h1{
-    color: white;
-    padding-top: 10px;
-    text-align: center;
-}
-
-.login{
-    background: rgba(11, 11, 11, 0.258);
-    width: 500px;
-    height: 430px;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    box-sizing: border-box;
-    padding: 40px 25px;
-    border-radius: 10px;
-    transform: translate(-50%,-50%);
-}
-
-form{
-    margin: 10px;
-    margin-left: 60px;
-}
-
-input{
-width: 90%;
-height: 30px;
-border-radius: 15px;
-}
-
-a{
-    margin-right: 60px;
-    color: white;
+.login img{
+    margin-left: 70px;
 }

@@ -62,11 +62,13 @@ body{
 .card:hover{
     transform: scale(1.1);
     transition: 0s;
+    cursor: pointer;
 }
 
 .subheading h2{
     margin-left: 150px ;
-    margin-top: 1px;
+    margin-top: 2px;
+    
 }
 
 .paragraph p{
@@ -78,10 +80,12 @@ body{
     width: 400px;
     float: right;
     float: top;
+    margin-top: -100px;
 }
 
 .rectangle {
     width: 100%;
-    height: 500px;
+    height: 420px;
     background: rgb(231, 238, 240);
+    margin-top: 13px;
 }
